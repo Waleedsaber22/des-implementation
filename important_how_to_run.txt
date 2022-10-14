@@ -1,0 +1,5 @@
+in terminal
+1-   gcc -o out file_name.c
+2-   in Windows:  start out text_name
+      in Linux: ./out text_name
+3- follow shown steps in running script
